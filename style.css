@@ -1,0 +1,58 @@
+body {
+  background-color: #dcdcdc;
+  margin: 0 auto;
+  padding:20px;
+}
+
+main {
+  padding: 30px;
+  margin: 30px;
+}
+
+footer {
+  width: auto;
+  height: 30px;
+  background-color: #717D7E;
+  color: white;
+  text-align: center;
+  font-size: 12px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Menu */
+header {
+  background-color: #717D7E;
+  font-size: 25px;
+}
+
+header ul li {
+  display: inline-block;
+  width: auto;
+  height: 30px;
+  line-height: 30px;
+  padding:8px;
+  margin: 0px;
+  text-align: center;
+  color: white;
+}
+
+/* Main*/
+div h1{
+  padding: 5px 5px;
+  margin:5px 5px;
+}
+
+div p {
+  padding: 5px 5px;
+  margin:5px 5px;
+}
+p {
+  column-count: 4;
+  column-rule: 4px double black;
+  text-align: justify;
+
+}
